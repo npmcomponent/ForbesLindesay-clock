@@ -1,0 +1,12 @@
+{
+  "name": "clock",
+  "repo": "ForbesLindesay/clock",
+  "description": "A simple clock component, mainly for demonstration purposes",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
